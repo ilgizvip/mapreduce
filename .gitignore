@@ -2,3 +2,4 @@
 
 /tests/*
 !/tests/README.md
+build/
